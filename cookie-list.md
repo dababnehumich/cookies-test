@@ -4,3 +4,4 @@
 - Chocolate chip 
 - Oatmeal
 - Snickerdoodles
+- Macadamia nut
