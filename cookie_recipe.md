@@ -15,6 +15,6 @@ Tanner Schudlich, adapted from Taste of Home Big Soft Ginger Cookies Recipe
 
 ## Directions
 
-- Preheat oven to 350 degrees
+- Preheat oven to 350 degrees F
 - Cream butter and granulated sugar in large bowl until light and fluffy. Beat in egg and molasses. Combine the remaining dry ingredients in a medium bowl and add to the creamed mixture. Mix well.
 - Roll into 1 1/2" balls, then roll in coarse sugar. Place 2" apart on baking sheet lined with parchment paper and chill in refrigerator for 15 minutes. Bake until puffy and lightly browned, 10-12 minutes. Remove to wire racks to cool.
